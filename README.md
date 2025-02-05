@@ -97,7 +97,3 @@ Duplicate group 2:
 ## License
 
 MIT License
-
-## Author
-
-[Yosef Adel]
